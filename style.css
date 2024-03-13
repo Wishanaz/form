@@ -1,0 +1,62 @@
+body{
+    background-color:  #7469B6;
+    font-size: 25px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: #AD88C6;
+    padding: 27px;
+    margin: 50px auto 0;
+    width: 700px;
+    height: 700px;
+    border-top: 5px solid #FFE6E6;
+    box-shadow: 0 7px 10px rgb(57, 57, 58);
+    
+}
+
+h2{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing:auto;
+  font-weight:bolder;
+  font-style:italic;
+  font-size: 100px;
+  text-align: center;
+  color: #FFE6E6;
+}
+
+.container h2{
+    padding: 10px;
+}
+
+.inpt-name{
+    margin: 20px;
+}
+
+.name{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(78, 28, 67, 0.986);
+}
+
+.email{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(78, 28, 67, 0.986);
+}
+
+.password{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(78, 28, 67, 0.986);
+}
+
+.button{
+    color:black;
+    box-shadow: 0 4px 8px 0 rgba(78, 28, 67, 0.986);
+    background-color: rgb(234, 166, 240);
+    height: 28px;
+    width: 60px;
+}
